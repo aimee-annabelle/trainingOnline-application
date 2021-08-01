@@ -1,0 +1,22 @@
+{
+  "name": "trainingonline-application",
+  "version": "1.0.0",
+  "description": "research and training online application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aimee-annabelle/trainingOnline-application.git"
+  },
+  "author": "Annabelle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aimee-annabelle/trainingOnline-application/issues"
+  },
+  "homepage": "https://github.com/aimee-annabelle/trainingOnline-application#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
